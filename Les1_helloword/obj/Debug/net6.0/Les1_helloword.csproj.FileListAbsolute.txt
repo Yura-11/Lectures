@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\bin\Debug\net6.0\Les1_helloword.exe
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\bin\Debug\net6.0\Les1_helloword.deps.json
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\bin\Debug\net6.0\Les1_helloword.runtimeconfig.json
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\bin\Debug\net6.0\Les1_helloword.dll
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\bin\Debug\net6.0\ref\Les1_helloword.dll
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\bin\Debug\net6.0\Les1_helloword.pdb
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\Les1_helloword.GlobalUsings.g.cs
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\Les1_helloword.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\Les1_helloword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\Les1_helloword.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\Les1_helloword.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\Les1_helloword.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\Les1_helloword.dll
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\ref\Les1_helloword.dll
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\Les1_helloword.pdb
+C:\Users\User\Desktop\C#\Lec\Les1_helloword\obj\Debug\net6.0\Les1_helloword.genruntimeconfig.cache
